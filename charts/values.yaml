@@ -1,7 +1,7 @@
 # cluster specific values
 cluster:
   # specify cluster name
-  name: vsphere-provision
+  name: template-k3s-vsphere
 
   # specify cluster labels
   labels: 
